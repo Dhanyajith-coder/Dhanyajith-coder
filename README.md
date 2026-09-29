@@ -1,9 +1,11 @@
 <div align="center">
 
-Hi, I'm Dhanyajith 
+# Hi, I'm Dhanya Jith
 
-Computer Science student building practical solutions through software development, data analytics, and AI.
+**Computer Science student building practical solutions through software development, data analytics, and AI.**
+
 I enjoy turning ideas into real-world projects, exploring new technologies, and continuously strengthening my problem-solving and technical skills.
+
 
 <sub>Software Development &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Building Real Projects</sub>
 
