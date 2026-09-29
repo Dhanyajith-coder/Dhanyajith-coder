@@ -4,7 +4,7 @@
 
 **Computer Science student exploring software development, data analytics, and real-world projects.**
 
-Software Development · Data Analytics · Building Real Projects
+Software Development · Data Analytics · Artificial Intelligence · Building Real Projects 
 
 <a href="https://github.com/Dhanyajith-coder">
   <img src="https://img.shields.io/badge/GitHub-Dhanyajith--coder-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -13,9 +13,7 @@ Software Development · Data Analytics · Building Real Projects
 <a href="https://www.linkedin.com/in/dhanya-jith-227802307/">
   <img src="https://img.shields.io/badge/LinkedIn-Dhanya%20Jith-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <br>
-
 <a href="#about">About</a>
 &nbsp;·&nbsp;
 <a href="#tech-stack">Tech Stack</a>
