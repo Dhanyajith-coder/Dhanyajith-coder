@@ -4,9 +4,7 @@
 
 **Computer Science student exploring software development, data analytics, and real-world projects.**
 
-Software Development &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Building Real Projects
-
-<br>
+Software Development · Data Analytics · Building Real Projects
 
 <a href="https://github.com/Dhanyajith-coder">
   <img src="https://img.shields.io/badge/GitHub-Dhanyajith--coder-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -16,10 +14,8 @@ Software Development &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Building Real 
   <img src="https://img.shields.io/badge/LinkedIn-Dhanya%20Jith-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
+<br>
 
-<a href="#github-activity">Activity</a>
-&nbsp;·&nbsp;
 <a href="#about">About</a>
 &nbsp;·&nbsp;
 <a href="#tech-stack">Tech Stack</a>
@@ -32,23 +28,11 @@ Software Development &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Building Real 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanyajith-coder&show_icons=true&hide_border=true&theme=default&include_all_commits=true" height="165" alt="GitHub Stats">
-
-<img src="https://streak-stats.demolab.com/?user=Dhanyajith-coder&hide_border=true&theme=default" height="165" alt="GitHub Streak">
-
-</div>
-
----
-
 ## About
 
 I'm a Computer Science student who enjoys building things and learning by doing.
 
-Right now, I'm exploring **software development** and **data analytics**, and I like working on **real-world projects** rather than only textbook exercises.
+Currently exploring **software development**, **data analytics**, and **real-world projects**.
 
 ---
 
@@ -121,12 +105,7 @@ Right now, I'm exploring **software development** and **data analytics**, and I 
 
 ## Currently Exploring
 
-**Software Development** &nbsp;·&nbsp;
-**Data Analytics** &nbsp;·&nbsp;
-**Machine Learning** &nbsp;·&nbsp;
-**Generative AI** &nbsp;·&nbsp;
-**RAG** &nbsp;·&nbsp;
-**Real-World Projects**
+**Software Development** · **Data Analytics** · **Machine Learning** · **Generative AI** · **RAG**
 
 ---
 
@@ -142,12 +121,8 @@ Right now, I'm exploring **software development** and **data analytics**, and I 
   <img src="https://img.shields.io/badge/LinkedIn-Dhanya%20Jith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="mailto:dhanyakeerthana391@gmailcom">
+<a href="mailto:dhanyakeerthana391@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Dhanyajith-coder&label=Profile+Views&color=0969da&style=flat-square" alt="Profile views">
 
 </div>
