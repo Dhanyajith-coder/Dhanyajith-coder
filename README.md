@@ -1,16 +1,9 @@
 <div align="center">
 
- # Hi, I'm Dhanyajith 
+Hi, I'm Dhanyajith 
 
-###  Computer Science Student | Developer | Data & AI Enthusiast
-
-I’m a Computer Science student passionate about **building real-world projects, working with data, and exploring AI-driven solutions**.
-
-🔹 Building projects to turn ideas into practical solutions
-🔹 Strengthening **DSA, software development, SQL & data analytics**
-🔹 Exploring **AI, APIs, databases, and modern development tools**
-🔹 Always learning something new and improving through hands-on experience
-
+Computer Science student building practical solutions through software development, data analytics, and AI.
+I enjoy turning ideas into real-world projects, exploring new technologies, and continuously strengthening my problem-solving and technical skills.
 
 <sub>Software Development &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Building Real Projects</sub>
 
