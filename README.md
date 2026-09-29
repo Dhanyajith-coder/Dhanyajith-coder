@@ -40,20 +40,6 @@ Computer Science student exploring software development, data analytics, and rea
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanyajith-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dhanyajith-coder&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
-
----
-
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Dhanyajith-coder&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" /></a>
 </p>
